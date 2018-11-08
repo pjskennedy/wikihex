@@ -1,0 +1,16 @@
+[
+  {
+    "request": {
+      "body": "",
+      "headers": [],
+      "method": "get",
+      "request_body": "",
+      "url": "https://en.wikipedia.org/w/api.php?action=querie&format=json&formatversion=2&titles=Canada"
+    },
+    "response": {
+      "body": "{\"error\":{\"code\":\"unknown_action\",\"info\":\"Unrecognized value for parameter \\\"action\\\": quer2y.\",\"docref\":\"See https://en.wikipedia.org/w/api.php for API usage. Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/mailman/listinfo/mediawiki-api-announce&gt; for notice of API deprecations and breaking changes.\"},\"servedby\":\"mw1228\"}",
+      "status_code": 200,
+      "type": "ok"
+    }
+  }
+]

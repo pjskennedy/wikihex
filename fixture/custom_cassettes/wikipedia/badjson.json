@@ -1,0 +1,16 @@
+[
+  {
+    "request": {
+      "body": "",
+      "headers": [],
+      "method": "get",
+      "request_body": "",
+      "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&titles=Canada"
+    },
+    "response": {
+      "body": "{batchcomplete\":true,\"query\":{\"pages\":[{\"pageid\":5042916,\"ns\":0,\"title\":\"Canada\"}]}}",
+      "status_code": 200,
+      "type": "ok"
+    }
+  }
+]
